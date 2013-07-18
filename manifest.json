@@ -1,0 +1,21 @@
+{
+  "name": "MapStack fetcher",
+  "description": "Browser based map rasterization for MapStack. Get your map image in milliseconds.",
+  "version": "0.1",
+  "icons": {
+    "16": "map_16x16.png",
+    "48": "map_48x48.png",
+    "128": "map_128x128.png"
+  },
+  "background": {
+    "scripts": ["map.js"]
+  },
+  "permissions": [
+    "tabs", "http://*/*", "https://*/*"
+  ],
+  "browser_action": {
+      "default_title": "Fetch Map",
+      "default_icon": "map_16x16.png"
+  },
+  "manifest_version": 2
+}

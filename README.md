@@ -14,7 +14,7 @@ MapStack:
 
 Clone this repo, then go to chrome and go to `chrome://extensions`. Hit
 the *Load unpacked extension...* button and then select the
-`mapstack-raster` folder. Then when navigating MapStack, use the right
+`mapstack-raster` folder. Then when navigating MapStack, use the top right
 map icon to generate an image from your current view. All done client
 side.
 

@@ -18,8 +18,6 @@ the *Load unpacked extension...* button and then select the
 map icon to generate an image from your current view. All done client
 side.
 
-<iframe width="640" height="480" src="//www.youtube.com/embed/CbBqbVInh1k" frameborder="0"></iframe>
-
 ## Status
 
 Works with one tile only. Could use a lot of improvements.
